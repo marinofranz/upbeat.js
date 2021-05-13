@@ -1,4 +1,6 @@
-<img align="center" src="https://i.imgur.com/uKqzYYM.png" alt="UBJS" width="300"/>
+<p align="center">
+   <img align="center" src="https://i.imgur.com/uKqzYYM.png" alt="UBJS" width="300"/>
+</p>
 
 # ⚡️ An UpBeatRadio API Wrapper for Node.js
 
